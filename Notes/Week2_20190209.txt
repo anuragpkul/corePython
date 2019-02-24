@@ -1,0 +1,12 @@
+Declaring a global variable from function
+Declaring function with n arguments
+for loop in python
+Inheriting a class
+Git is discussed
+If condition discussed
+switch statement is discussed (o switch statement in python)
+Loops is discussed
+Reading file fmro URI
+try except block
+List ,Immutable list
+switch case

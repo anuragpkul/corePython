@@ -1,0 +1,16 @@
+Numpy: Numerical python
+Panda:
+Moving to Data Science Data source
+kenesis data streams
+RedShift
+AWS Glue - ETL
+SQL Lite: Anakonda RDBMS
+AWS jupyter notebook to S3
+Ingestion
+Model
+Query
+Analyze 
+View 
+
+How to connect to AWS 3
+Numpy introduction
